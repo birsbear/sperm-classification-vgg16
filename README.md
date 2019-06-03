@@ -8,9 +8,9 @@ test acc 為 83%
 
 正常精子
 
-!['normal sperm']()
+!['normal sperm'](image251.png)
 
 
 異常精子
 
-!['normal sperm']()
+!['normal sperm'](image2070.png)
